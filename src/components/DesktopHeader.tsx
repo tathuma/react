@@ -5,7 +5,7 @@ import React from "react";
 function DesktopHeader() {
   return (
     <div>
-        <p>ccqcqcqcsddacdacaca</p>
+        <h1>デスクトップ</h1>
     </div>
   )
 }
